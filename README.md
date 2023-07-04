@@ -67,6 +67,16 @@
   # https://downloads.haskell.org/ghc/latest/docs/users_guide/ghci.html
 ```
 
+## Markdown Syntax
+
+```
+Headings: prefix by a number of * characters
+Paragraphs: a group of lines without empty lines in between
+Unordered lists: a group of lines, each prefixed with -
+Ordered lists: a group of lines, each prefixed with #
+Code blocks: a group of lines, each prefixed with >
+```
+
 # Lessons
 
   - partial application
